@@ -1,0 +1,25 @@
+{
+  "name": "dsantos",
+  "version": "1.0.0",
+  "description": "daniela-todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dani-ms/todo.git"
+  },
+  "keywords": [
+    "daniela-todo"
+  ],
+  "author": "Daniela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dani-ms/todo/issues"
+  },
+  "homepage": "https://github.com/Dani-ms/todo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
